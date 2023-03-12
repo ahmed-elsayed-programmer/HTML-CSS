@@ -1,0 +1,11 @@
+
+table {
+  border: 6px solid rgb(88, 161, 209);
+}
+
+td , th  {
+  border-bottom: 1px solid;
+  min-width: 100px;
+  text-align: center;
+}
+
